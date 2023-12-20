@@ -1,10 +1,9 @@
 <?php
 
-namespace Sherweb\OtusComposerPackage;
+namespace Sherweb\OtusPackage;
 
 /**
  * Calculator
- * @package Sherweb\OtusComposerPackage
  */
 class Calculator
 {

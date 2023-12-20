@@ -1,9 +1,9 @@
 {
-    "name": "sherweb/otus-composer-package",
+    "name": "sherweb/otus-package",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Sherweb\\OtusComposerPackage\\": "src/"
+            "Sherweb\\OtusPackage\\": "src/"
         }
     },
     "authors": [
@@ -11,8 +11,5 @@
             "name": "sherweb",
             "email": "serverwebb@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=7.4"
-    }
+    ]
 }
