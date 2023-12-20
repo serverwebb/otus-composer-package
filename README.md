@@ -6,7 +6,7 @@
 ## Установка
 
 ```bash
-composer require sherweb/otus-composer-package
+composer require sherweb/otus-package
 ```
 
 ## Использование
