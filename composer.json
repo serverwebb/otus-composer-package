@@ -11,8 +11,5 @@
             "name": "sherweb",
             "email": "serverwebb@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=7.4"
-    }
+    ]
 }
